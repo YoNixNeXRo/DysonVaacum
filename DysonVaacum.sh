@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-# Nom 		: dyson.sh
+# Name 		: DysonVaacum.sh
 # Description 	: draws on a website the type of wanted documents
 # Param 1 	: url
 # Param 2 	: type of documents (pdf etc)
